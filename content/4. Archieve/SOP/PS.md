@@ -1,0 +1,3 @@
+I am the revenant from the death. When I was 17 years old, I got a car accident during crossing the crosswalk. It was a night at the moment, and I woke up on the next day night. Because of the accident, I was not able to walk for a year. This impacted to quit the high school and turning to the home-schooling which is very uncommon in South Korea.
+
+In South Korea, every man has serve the mandatory millitary service. In addition, I had wanted to enroll the Korea Air Force Academy(KAFA). However, because of the injury and the home schooling, I got the military service exemption and lost the deserve to apply KAFA. It was huge adversity to me. 
