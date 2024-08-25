@@ -1,0 +1,19 @@
+**Statement of Purpose**
+
+Ever since my pre-university days, my passion for mathematics, especially in the domains of Topology and Geometry, has been the guiding force shaping my academic pursuits. Initially captivated by cosmology, black holes, and quantum mechanics, my journey began with an ambition to delve into physics. However, the wisdom of seasoned mentors steered me towards a major in mathematics, honing in on the captivating fields of differential geometry and topology.
+
+My academic journey has been a tapestry of experiences, woven with active participation in conferences and engaging discussions with esteemed mathematicians. Notable moments include the Einstein & Harmonic Manifold conference and the Minimal Surface School, where dialogues with luminaries like Professor Kyeongsu Choi in Kias and Richard Schoen deepened my grasp of geometric analysis. In the realm of topology, I collaborated with Professor Seungwon Kim on applying Fox Calculus to compute knots on differentiable manifolds.
+
+My curiosity extends to numerical PDE, where I applied the finite difference method to tackle the Schrödinger equation and explored numerical approximations for the curve shortening flow. This interdisciplinary approach exemplifies my commitment to uncovering the crossroads of mathematical theories.
+
+The transformative impact of COVID-19 prompted me to adapt to online learning, leading to a temporary leave of absence during which I refined my teaching skills. Serving as a homeroom teacher for high school students and instructing college-level mathematics courses, I embraced innovative teaching methods, fostering an environment that nurtured deep understanding and outstanding academic achievements among students.
+
+While juggling teaching responsibilities during my hiatus, I remained devoted to personal academic growth. Additional studies in Abstract Algebra and Numerical Analysis, coupled with contributions to the mathematics and physics society, underscore my dedication to continuous learning and leadership.
+
+As the current president of the mathematics academic club, MIMIC, at Sungkyunkwan University, I've leveraged this role for individual presentations on mathematical topics and collaborative projects. "Within the club, I've delivered four presentations covering diverse topics, such as a seminar on 'Non-Euclidean Parallel Postulate' for lower-class students, an exploration of the Jones Polynomial in Knot Theory with connections to Quantum Invariants, a session on solving the Schrödinger equation using the Finite Difference Method, and a presentation on the Curve Shortening Flow in a 2D plane, which is related to geometric PDE." Additionally, I manage the club's online presence through the YouTube channel, "MIMIC SKKU," and its website.
+
+Recipient of various scholarships and accolades, including a silver award at the University Students Contest of Mathematics, my pursuit of advanced courses in Sobolev spaces, low-dimensional topology, and geometric PDE reflects my dedication to pushing the boundaries of my mathematical knowledge.
+
+Participating in the Undergraduate Research Program allowed me to explore topics beyond the conventional curriculum, contributing lecture notes on "Introduction to Smooth Manifold" and delving into topological quantum field theory in "Gauge Fields, Knots, and Gravity."
+
+My academic journey embodies a fervor for mathematics, a commitment to teaching, and a drive for interdisciplinary exploration. I am excited about the prospect of contributing to and thriving within the vibrant academic community at [University Name], where I aim to continue my exploration of differential geometry and topology, engaging in cutting-edge research and contributing to the broader discourse in mathematics.
