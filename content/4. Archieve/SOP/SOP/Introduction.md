@@ -1,0 +1,15 @@
+저는 한국에서 프로게이머였습니다. 프로게이머 준비를 하기 위해서 고등학교도 Home schooling으로 전환했습니다. 프로로서 많은 경험을 해보았습니다. 단순히 게임을 하는 것이 아니라 게임의 시간을 측정하고, 게임의 구조를 파악하는 등 주어진 상황에 대한 끊임 없는 분석과 끝 없는 통계를 내왔습니다. 마찬가지로 게임 내 상황을 신속하게 평가하고 행동하기 위해 수리적 사고를 다양하게 했습니다. 이는 게임에서만 적용되는 것이 아니었습니다. Home schooling에 적용해 훌륭한 성적으로 고등학교 졸업 학력을 갖게 되었고, University 입학 시험의 수리 논술 시험에서 수석으로 입학하고, 그리고 현재의 수학을 공부하고 연구하는 과정에도 적용되고 있습니다. 
+
+스포츠, especially e-sports <-> Math (one sentence, similarity precise analytic skill + creative and abstract(various perspectives to understand objectives in battle field <-> abstract definitions) 
+As a former professional e-sports player, I was trained these skills thoroughly, which was affected to not only to my achievement during the undergrad, but also about my future research direction (Analytic geometry, Algebraic topology)
+
+
+저는 프로게이머라는 독특한 배경을 바탕으로 저의 분석력과 수학적 명석함을 역동적인 학문 연구 분야에 적용할 계획입니다. 제가 게임 경쟁 분야에서 갈고 닦은 전략적 사고력, 통계적 분석력, 문제해결력은 앞으로 수학 공부에 큰 밑거름이 되었습니다. 가상적 도전에서 이론적 복잡성으로의 전환은 단순히 개인적 진화가 아니라 학문적 탐구에 동일한 엄격함과 정밀함을 적용하기 위한 의도적인 선택입니다. 저는 수학 대학원 과정을 시작하여 저의 열정과 일치하는 연구 분야를 심도 있게 연구하고 분석적 전문성을 활용하여 현장에 의미 있게 기여하고자 합니다.  
+
+Building on my unique background as a professional gamer, I am ready to bring my analytical skills and mathematical acumen to the dynamic realm of academic research. The strategic thinking, statistical analysis, and problem-solving skills honed in the field of competitive gaming laid a strong foundation for my future pursuit of mathematics. This transition from hypothetical challenges to theoretical complexity is not just a personal evolution, but a deliberate choice to apply the same rigor and precision to academic inquiry. As I embark on a journey of graduate study in mathematics, I hope to delve into research areas that align with my passion and use my analytical expertise to contribute meaningfully to the field.
+
+Based on my unique background as a professional gamer, I plan to apply my analytical skills and mathematical brilliance to the dynamic field of academic research. The strategic thinking, statistical analysis, and problem-solving skills I honed in the field of competitive gaming laid a great foundation for my future mathematics studies. The transition from hypothetical challenges to theoretical complexity is not simply a personal evolution, but a deliberate choice to apply the same rigor and precision to academic inquiry. I would like to start a graduate course in Mathematics, study in depth an area of ​​research that aligns with my passion, and use my analytical expertise to contribute meaningfully to the field.
+
+
+# adfadsf
+With my background as a professional gamer, I am prepared to apply my analytical skills and mathematical brilliance to academic research. These skills, honed through competitive games, form a strong foundation for my mathematics pursuits. The shift from hypothetical challenges to theoretical complexity reflects a deliberate choice to bring rigor to academic research. 
